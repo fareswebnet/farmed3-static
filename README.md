@@ -1,0 +1,1 @@
+# farmed3-static
